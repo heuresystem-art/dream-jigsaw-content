@@ -1,0 +1,462 @@
+{
+  "categories": [
+    {
+      "id": "animals",
+      "title": "Animals",
+      "sortOrder": 1,
+      "thumbnailURL": "https://i.postimg.cc/YqxHqFHf/pexels-alexasfotos-7408075.jpg",
+      "levels": [
+        {
+          "id": "animals_1",
+          "title": "pexels-alexasfotos-7408075",
+          "levelNumber": 1,
+          "gridSize": 3,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/YqxHqFHf/pexels-alexasfotos-7408075.jpg",
+          "thumbnailURL": "https://i.postimg.cc/YqxHqFHf/pexels-alexasfotos-7408075.jpg"
+        },
+        {
+          "id": "animals_2",
+          "title": "pexels-brenden621-34888210",
+          "levelNumber": 2,
+          "gridSize": 3,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/HstgsMgc/pexels-brenden621-34888210.jpg",
+          "thumbnailURL": "https://i.postimg.cc/HstgsMgc/pexels-brenden621-34888210.jpg"
+        },
+        {
+          "id": "animals_3",
+          "title": "pexels-brian-royston-rodrigues-98935670-20577109",
+          "levelNumber": 3,
+          "gridSize": 4,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/02Cs2Ss7/pexels-brian-royston-rodrigues-98935670-20577109.jpg",
+          "thumbnailURL": "https://i.postimg.cc/02Cs2Ss7/pexels-brian-royston-rodrigues-98935670-20577109.jpg"
+        },
+        {
+          "id": "animals_4",
+          "title": "pexels-caleb-falkenhagen-216813613-27067817",
+          "levelNumber": 4,
+          "gridSize": 4,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/jdhbdfbX/pexels-caleb-falkenhagen-216813613-27067817.jpg",
+          "thumbnailURL": "https://i.postimg.cc/jdhbdfbX/pexels-caleb-falkenhagen-216813613-27067817.jpg"
+        },
+        {
+          "id": "animals_5",
+          "title": "pexels-charlesdeluvio-1851164",
+          "levelNumber": 5,
+          "gridSize": 5,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/t4CH1gq2/pexels-charlesdeluvio-1851164.jpg",
+          "thumbnailURL": "https://i.postimg.cc/t4CH1gq2/pexels-charlesdeluvio-1851164.jpg"
+        },
+        {
+          "id": "animals_6",
+          "title": "pexels-dave-diangelo-583383-1786960",
+          "levelNumber": 6,
+          "gridSize": 5,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/y8YzJN1F/pexels-dave-diangelo-583383-1786960.jpg",
+          "thumbnailURL": "https://i.postimg.cc/y8YzJN1F/pexels-dave-diangelo-583383-1786960.jpg"
+        },
+        {
+          "id": "animals_7",
+          "title": "pexels-detpho-1804976",
+          "levelNumber": 7,
+          "gridSize": 6,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/FHsQfKrV/pexels-detpho-1804976.jpg",
+          "thumbnailURL": "https://i.postimg.cc/FHsQfKrV/pexels-detpho-1804976.jpg"
+        },
+        {
+          "id": "animals_8",
+          "title": "pexels-duygugungor-26555691",
+          "levelNumber": 8,
+          "gridSize": 6,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/L86Mqs9T/pexels-duygugungor-26555691.jpg",
+          "thumbnailURL": "https://i.postimg.cc/L86Mqs9T/pexels-duygugungor-26555691.jpg"
+        },
+        {
+          "id": "animals_9",
+          "title": "pexels-ellen-de-ruiter-249111-1718171",
+          "levelNumber": 9,
+          "gridSize": 7,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/Gmh1Bp3C/pexels-ellen-de-ruiter-249111-1718171.jpg",
+          "thumbnailURL": "https://i.postimg.cc/Gmh1Bp3C/pexels-ellen-de-ruiter-249111-1718171.jpg"
+        },
+        {
+          "id": "animals_10",
+          "title": "pexels-ferhat-sezek-530112540-21198651",
+          "levelNumber": 10,
+          "gridSize": 7,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/T3YXyP2M/pexels-ferhat-sezek-530112540-21198651.jpg",
+          "thumbnailURL": "https://i.postimg.cc/T3YXyP2M/pexels-ferhat-sezek-530112540-21198651.jpg"
+        },
+        {
+          "id": "animals_11",
+          "title": "pexels-flickr-146071",
+          "levelNumber": 11,
+          "gridSize": 8,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/fR2QYhkn/pexels-flickr-146071.jpg",
+          "thumbnailURL": "https://i.postimg.cc/fR2QYhkn/pexels-flickr-146071.jpg"
+        },
+        {
+          "id": "animals_12",
+          "title": "pexels-flowerstofox-1835008",
+          "levelNumber": 12,
+          "gridSize": 8,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/cL9GfN6W/pexels-flowerstofox-1835008.jpg",
+          "thumbnailURL": "https://i.postimg.cc/cL9GfN6W/pexels-flowerstofox-1835008.jpg"
+        },
+        {
+          "id": "animals_13",
+          "title": "pexels-francesco-ungaro-1918218",
+          "levelNumber": 13,
+          "gridSize": 9,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/NjJvRwLG/pexels-francesco-ungaro-1918218.jpg",
+          "thumbnailURL": "https://i.postimg.cc/NjJvRwLG/pexels-francesco-ungaro-1918218.jpg"
+        },
+        {
+          "id": "animals_14",
+          "title": "pexels-halilibrahimctn-1754886",
+          "levelNumber": 14,
+          "gridSize": 9,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/fR2QYhkM/pexels-halilibrahimctn-1754886.jpg",
+          "thumbnailURL": "https://i.postimg.cc/fR2QYhkM/pexels-halilibrahimctn-1754886.jpg"
+        },
+        {
+          "id": "animals_15",
+          "title": "pexels-hans-martha-399489-1059823",
+          "levelNumber": 15,
+          "gridSize": 10,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/bwCf1jdN/pexels-hans-martha-399489-1059823.jpg",
+          "thumbnailURL": "https://i.postimg.cc/bwCf1jdN/pexels-hans-martha-399489-1059823.jpg"
+        },
+        {
+          "id": "animals_16",
+          "title": "pexels-helenalopes-1904104",
+          "levelNumber": 16,
+          "gridSize": 10,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/CxPpbVdK/pexels-helenalopes-1904104.jpg",
+          "thumbnailURL": "https://i.postimg.cc/CxPpbVdK/pexels-helenalopes-1904104.jpg"
+        },
+        {
+          "id": "animals_17",
+          "title": "pexels-helenalopes-1931372",
+          "levelNumber": 17,
+          "gridSize": 11,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/W1Wc0Ptd/pexels-helenalopes-1931372.jpg",
+          "thumbnailURL": "https://i.postimg.cc/W1Wc0Ptd/pexels-helenalopes-1931372.jpg"
+        },
+        {
+          "id": "animals_18",
+          "title": "pexels-helenalopes-1931379",
+          "levelNumber": 18,
+          "gridSize": 11,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/YCnBQwjG/pexels-helenalopes-1931379.jpg",
+          "thumbnailURL": "https://i.postimg.cc/YCnBQwjG/pexels-helenalopes-1931379.jpg"
+        },
+        {
+          "id": "animals_19",
+          "title": "pexels-helenalopes-35764029",
+          "levelNumber": 19,
+          "gridSize": 12,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/527W8MjF/pexels-helenalopes-35764029.jpg",
+          "thumbnailURL": "https://i.postimg.cc/527W8MjF/pexels-helenalopes-35764029.jpg"
+        },
+        {
+          "id": "animals_20",
+          "title": "pexels-ian-panelo-11552619",
+          "levelNumber": 20,
+          "gridSize": 12,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/t4SGFH7P/pexels-ian-panelo-11552619.jpg",
+          "thumbnailURL": "https://i.postimg.cc/t4SGFH7P/pexels-ian-panelo-11552619.jpg"
+        },
+        {
+          "id": "animals_21",
+          "title": "pexels-ian-panelo-11596515",
+          "levelNumber": 21,
+          "gridSize": 13,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/pdmbZ1nm/pexels-ian-panelo-11596515.jpg",
+          "thumbnailURL": "https://i.postimg.cc/pdmbZ1nm/pexels-ian-panelo-11596515.jpg"
+        },
+        {
+          "id": "animals_22",
+          "title": "pexels-ihsanaditya-1056252",
+          "levelNumber": 22,
+          "gridSize": 13,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/8C7QHnrj/pexels-ihsanaditya-1056252.jpg",
+          "thumbnailURL": "https://i.postimg.cc/8C7QHnrj/pexels-ihsanaditya-1056252.jpg"
+        },
+        {
+          "id": "animals_23",
+          "title": "pexels-javon-swaby-197616-1714454",
+          "levelNumber": 23,
+          "gridSize": 14,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/tgsQ5mVx/pexels-javon-swaby-197616-1714454.jpg",
+          "thumbnailURL": "https://i.postimg.cc/tgsQ5mVx/pexels-javon-swaby-197616-1714454.jpg"
+        },
+        {
+          "id": "animals_24",
+          "title": "pexels-jcosta-17814026",
+          "levelNumber": 24,
+          "gridSize": 14,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/8C7QHnrt/pexels-jcosta-17814026.jpg",
+          "thumbnailURL": "https://i.postimg.cc/8C7QHnrt/pexels-jcosta-17814026.jpg"
+        },
+        {
+          "id": "animals_25",
+          "title": "pexels-jokassis-31177802",
+          "levelNumber": 25,
+          "gridSize": 15,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/R02rbQcG/pexels-jokassis-31177802.jpg",
+          "thumbnailURL": "https://i.postimg.cc/R02rbQcG/pexels-jokassis-31177802.jpg"
+        },
+        {
+          "id": "animals_26",
+          "title": "pexels-jvdm-1881761",
+          "levelNumber": 26,
+          "gridSize": 15,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/MGn2Drj7/pexels-jvdm-1881761.jpg",
+          "thumbnailURL": "https://i.postimg.cc/MGn2Drj7/pexels-jvdm-1881761.jpg"
+        },
+        {
+          "id": "animals_27",
+          "title": "pexels-kamakshi-72543796-32475448",
+          "levelNumber": 27,
+          "gridSize": 16,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/hGNF3b9p/pexels-kamakshi-72543796-32475448.jpg",
+          "thumbnailURL": "https://i.postimg.cc/hGNF3b9p/pexels-kamakshi-72543796-32475448.jpg"
+        },
+        {
+          "id": "animals_28",
+          "title": "pexels-katlovessteve-568022",
+          "levelNumber": 28,
+          "gridSize": 16,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/rp76YCSZ/pexels-katlovessteve-568022.jpg",
+          "thumbnailURL": "https://i.postimg.cc/rp76YCSZ/pexels-katlovessteve-568022.jpg"
+        },
+        {
+          "id": "animals_29",
+          "title": "pexels-konrads-photo-19298404",
+          "levelNumber": 29,
+          "gridSize": 17,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/d0gMSm8H/pexels-konrads-photo-19298404.jpg",
+          "thumbnailURL": "https://i.postimg.cc/d0gMSm8H/pexels-konrads-photo-19298404.jpg"
+        },
+        {
+          "id": "animals_30",
+          "title": "pexels-kpaukshtite-1839753",
+          "levelNumber": 30,
+          "gridSize": 17,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/9fs3NtGn/pexels-kpaukshtite-1839753.jpg",
+          "thumbnailURL": "https://i.postimg.cc/9fs3NtGn/pexels-kpaukshtite-1839753.jpg"
+        },
+        {
+          "id": "animals_31",
+          "title": "pexels-lens-of-life-photography-2151327696-31660000",
+          "levelNumber": 31,
+          "gridSize": 18,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/9fs3NtGk/pexels-lens-of-life-photography-2151327696-31660000.jpg",
+          "thumbnailURL": "https://i.postimg.cc/9fs3NtGk/pexels-lens-of-life-photography-2151327696-31660000.jpg"
+        },
+        {
+          "id": "animals_32",
+          "title": "pexels-leon-aschemann-734730704-29186392",
+          "levelNumber": 32,
+          "gridSize": 18,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/cJPq5MQ2/pexels-leon-aschemann-734730704-29186392.jpg",
+          "thumbnailURL": "https://i.postimg.cc/cJPq5MQ2/pexels-leon-aschemann-734730704-29186392.jpg"
+        },
+        {
+          "id": "animals_33",
+          "title": "pexels-lunatik-sirius-2154801726-35314657",
+          "levelNumber": 33,
+          "gridSize": 19,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/q7WfZX8P/pexels-lunatik-sirius-2154801726-35314657.jpg",
+          "thumbnailURL": "https://i.postimg.cc/q7WfZX8P/pexels-lunatik-sirius-2154801726-35314657.jpg"
+        },
+        {
+          "id": "animals_34",
+          "title": "pexels-marian-havenga-531055927-21230711",
+          "levelNumber": 34,
+          "gridSize": 19,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/QMvLnkQL/pexels-marian-havenga-531055927-21230711.jpg",
+          "thumbnailURL": "https://i.postimg.cc/QMvLnkQL/pexels-marian-havenga-531055927-21230711.jpg"
+        },
+        {
+          "id": "animals_35",
+          "title": "pexels-muhammad-fadly-ramadhan-897083051-34337111",
+          "levelNumber": 35,
+          "gridSize": 20,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/rp76YC1X/pexels-muhammad-fadly-ramadhan-897083051-34337111.jpg",
+          "thumbnailURL": "https://i.postimg.cc/rp76YC1X/pexels-muhammad-fadly-ramadhan-897083051-34337111.jpg"
+        },
+        {
+          "id": "animals_36",
+          "title": "pexels-ninvalll-4855666",
+          "levelNumber": 36,
+          "gridSize": 20,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/wBnKbcX6/pexels-ninvalll-4855666.jpg",
+          "thumbnailURL": "https://i.postimg.cc/wBnKbcX6/pexels-ninvalll-4855666.jpg"
+        },
+        {
+          "id": "animals_37",
+          "title": "pexels-nursena-kok-2148338847-30044028",
+          "levelNumber": 37,
+          "gridSize": 21,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/DzRVYdrZ/pexels-nursena-kok-2148338847-30044028.jpg",
+          "thumbnailURL": "https://i.postimg.cc/DzRVYdrZ/pexels-nursena-kok-2148338847-30044028.jpg"
+        },
+        {
+          "id": "animals_38",
+          "title": "pexels-pinamon-26840809",
+          "levelNumber": 38,
+          "gridSize": 21,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/hGNF3bLv/pexels-pinamon-26840809.jpg",
+          "thumbnailURL": "https://i.postimg.cc/hGNF3bLv/pexels-pinamon-26840809.jpg"
+        },
+        {
+          "id": "animals_39",
+          "title": "pexels-pixabay-57416",
+          "levelNumber": 39,
+          "gridSize": 22,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/Hx5GGczC/pexels-pixabay-57416.jpg",
+          "thumbnailURL": "https://i.postimg.cc/Hx5GGczC/pexels-pixabay-57416.jpg"
+        },
+        {
+          "id": "animals_40",
+          "title": "pexels-s-n-ng-c-459229402-18215107",
+          "levelNumber": 40,
+          "gridSize": 22,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/rmW660jF/pexels-s-n-ng-c-459229402-18215107.jpg",
+          "thumbnailURL": "https://i.postimg.cc/rmW660jF/pexels-s-n-ng-c-459229402-18215107.jpg"
+        },
+        {
+          "id": "animals_41",
+          "title": "pexels-sarah-dietz-983041-4432020",
+          "levelNumber": 41,
+          "gridSize": 23,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/Qt5LL9mC/pexels-sarah-dietz-983041-4432020.jpg",
+          "thumbnailURL": "https://i.postimg.cc/Qt5LL9mC/pexels-sarah-dietz-983041-4432020.jpg"
+        },
+        {
+          "id": "animals_42",
+          "title": "pexels-sayefotograf-29507137",
+          "levelNumber": 42,
+          "gridSize": 23,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/G2Y008KJ/pexels-sayefotograf-29507137.jpg",
+          "thumbnailURL": "https://i.postimg.cc/G2Y008KJ/pexels-sayefotograf-29507137.jpg"
+        },
+        {
+          "id": "animals_43",
+          "title": "pexels-skyler-ewing-266953-8011661",
+          "levelNumber": 43,
+          "gridSize": 24,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/cCNpdxkn/pexels-skyler-ewing-266953-8011661.jpg",
+          "thumbnailURL": "https://i.postimg.cc/cCNpdxkn/pexels-skyler-ewing-266953-8011661.jpg"
+        },
+        {
+          "id": "animals_44",
+          "title": "pexels-snapwire-103651",
+          "levelNumber": 44,
+          "gridSize": 24,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/PJkgdXVK/pexels-snapwire-103651.jpg",
+          "thumbnailURL": "https://i.postimg.cc/PJkgdXVK/pexels-snapwire-103651.jpg"
+        },
+        {
+          "id": "animals_45",
+          "title": "pexels-snow-chang-2148891262-30906912",
+          "levelNumber": 45,
+          "gridSize": 25,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/sxRk3jHc/pexels-snow-chang-2148891262-30906912.jpg",
+          "thumbnailURL": "https://i.postimg.cc/sxRk3jHc/pexels-snow-chang-2148891262-30906912.jpg"
+        },
+        {
+          "id": "animals_46",
+          "title": "pexels-snow-chang-2148891262-31559694",
+          "levelNumber": 46,
+          "gridSize": 25,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/prYgTw31/pexels-snow-chang-2148891262-31559694.jpg",
+          "thumbnailURL": "https://i.postimg.cc/prYgTw31/pexels-snow-chang-2148891262-31559694.jpg"
+        },
+        {
+          "id": "animals_47",
+          "title": "pexels-snow-chang-2148891262-33146527",
+          "levelNumber": 47,
+          "gridSize": 26,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/x8yWCwB4/pexels-snow-chang-2148891262-33146527.jpg",
+          "thumbnailURL": "https://i.postimg.cc/x8yWCwB4/pexels-snow-chang-2148891262-33146527.jpg"
+        },
+        {
+          "id": "animals_48",
+          "title": "pexels-tima-miroshnichenko-6846044",
+          "levelNumber": 48,
+          "gridSize": 26,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/8cBq52xq/pexels-tima-miroshnichenko-6846044.jpg",
+          "thumbnailURL": "https://i.postimg.cc/8cBq52xq/pexels-tima-miroshnichenko-6846044.jpg"
+        },
+        {
+          "id": "animals_49",
+          "title": "pexels-wei-wu-413073151-22300650",
+          "levelNumber": 49,
+          "gridSize": 27,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/1XcLtkLx/pexels-wei-wu-413073151-22300650.jpg",
+          "thumbnailURL": "https://i.postimg.cc/1XcLtkLx/pexels-wei-wu-413073151-22300650.jpg"
+        },
+        {
+          "id": "animals_50",
+          "title": "pexels-xfly-10116098",
+          "levelNumber": 50,
+          "gridSize": 27,
+          "coinsReward": 5,
+          "imageURL": "https://i.postimg.cc/Fzg2RM2m/pexels-xfly-10116098.jpg",
+          "thumbnailURL": "https://i.postimg.cc/Fzg2RM2m/pexels-xfly-10116098.jpg"
+        }
+      ]
+    }
+  ]
+}
