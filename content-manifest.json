@@ -1,16 +1,16 @@
 {
-  "version": 4,
+  "version": 5,
   "updatedAt": "2026-04-05T15:30:00Z",
   "categories": [
     {
       "id": "animals",
       "levelsCount": 50,
-      "revision": 1
+      "revision": 2
     },
     {
       "id": "flowers",
       "levelsCount": 57,
-      "revision": 1
+      "revision": 2
     }
   ]
 }
