@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "updatedAt": "2026-04-05T15:30:00Z",
+  "categories": [
+    { "id": "animals", "levelsCount": 50 },
+    { "id": "flowers", "levelsCount": 57 }
+  ]
+}
